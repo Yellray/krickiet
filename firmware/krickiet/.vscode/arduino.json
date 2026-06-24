@@ -1,0 +1,8 @@
+{
+    "configuration": "cpu=atmega328old",
+    "board": "arduino:avr:nano",
+    "programmer": "arduino:avrispmkii",
+    "port": "COM8",
+    "sketch": "amplifier.ino",
+    "output": "build"
+}
