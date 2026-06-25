@@ -1,4 +1,4 @@
-# krickiet
+# ATtiny85 Cricket
 
 <p align="center">
   <img src="documentation/pcb-view.png" alt="PCB view" width="500">
